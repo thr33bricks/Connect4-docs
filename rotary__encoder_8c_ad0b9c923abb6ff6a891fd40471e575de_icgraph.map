@@ -1,0 +1,29 @@
+<map id="getRotBlue" name="getRotBlue">
+<area shape="rect" id="Node000001" title="Get the rotations value of the blue rotary encoder." alt="" coords="760,80,847,105"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#ae3729780f87f293c333032d5de97ae4d" title="Get the rotary encoder rotation value." alt="" coords="633,55,712,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="746,84,712,78,713,72,747,79"/>
+<area shape="rect" id="Node000009" href="$rotary__encoder_8c.html#a24a3c341e902fa0c6ffe8bf0c679f1d3" title="Resets rotation." alt="" coords="486,105,558,131"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="746,100,558,117,558,112,746,95"/>
+<area shape="rect" id="Node000003" href="$page__game_8c.html#a81b4f5a34c1b52db1fbac2378a1ef2b8" title="Updates the current column selection based on the knob position." alt="" coords="464,5,580,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="620,53,561,33,563,28,621,48"/>
+<area shape="rect" id="Node000006" href="$page__instr_8c.html#a018317a4639ec25896b4788f02224295" title="Calculates the index of the first line to display at the top of the screen." alt="" coords="459,55,585,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="620,70,585,70,585,65,620,65"/>
+<area shape="rect" id="Node000004" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="298,5,393,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,21,393,21,393,15,450,15"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,81,56,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="285,19,198,24,151,32,105,46,73,63,47,83,44,79,70,59,103,41,149,27,197,19,284,13"/>
+<area shape="rect" id="Node000007" href="$page__instr_8c.html#a507b6f91035be3c6e6d473806a270516" title="Displays the instructions page." alt="" coords="280,55,411,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="445,70,411,70,411,65,445,65"/>
+<area shape="rect" id="Node000008" href="$logic__game_8c.html#acb37ef24c46b6415fa9553e839b2efd5" title="Handles the instructions page." alt="" coords="104,56,232,81"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="267,71,232,71,232,66,267,65"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="91,86,57,92,56,87,90,80"/>
+<area shape="rect" id="Node000010" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="122,105,214,131"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="472,121,214,121,214,115,472,115"/>
+<area shape="rect" id="Node000011" href="$logic__game_8c.html#a486f7b71aa892de0f05c6187647613b9" title="Inits a new game. Resets the selected x pos on the board, resets the rotary encoder state,..." alt="" coords="308,156,383,181"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="474,134,384,161,382,155,472,129"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="108,110,56,101,57,96,109,105"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="294,157,213,133,214,128,296,152"/>
+<area shape="rect" id="Node000012" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="107,155,229,180"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="294,171,230,170,230,165,294,166"/>
+<area shape="poly" id="edge14_Node000012_Node000005" title=" " alt="" coords="115,152,103,146,47,109,50,105,105,141,117,147"/>
+</map>

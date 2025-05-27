@@ -1,0 +1,9 @@
+<map id="setLedsLine" name="setLedsLine">
+<area shape="rect" id="Node000001" title="Sets the 32 leds line." alt="" coords="440,5,532,31"/>
+<area shape="rect" id="Node000002" href="$leds_8c.html#a6f188141909f1aa3c62e714f10bdbe77" title="Plays animation on the 32 led." alt="" coords="275,5,392,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,21,392,21,392,15,426,15"/>
+<area shape="rect" id="Node000003" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="104,5,227,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,21,227,21,227,15,261,15"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,21,56,21,56,15,90,15"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="codebase/logic_game.h" name="codebase/logic_game.h">
+<area shape="rect" id="Node000001" title="The main logic of the game, FSM representing all the pages and transitions between them." alt="" coords="5,5,164,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,79,117,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,31,87,65,82,65,82,31"/>
+</map>

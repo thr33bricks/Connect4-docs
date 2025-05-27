@@ -1,0 +1,15 @@
+<map id="greenTextPosition" name="greenTextPosition">
+<area shape="rect" id="Node000001" title="Calculates the index of the first line to display at the top of the screen." alt="" coords="5,55,132,80"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#ae3729780f87f293c333032d5de97ae4d" title="Get the rotary encoder rotation value." alt="" coords="180,55,259,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,65,166,65,166,70,132,70"/>
+<area shape="rect" id="Node000003" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="311,5,398,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,52,305,33,307,38,256,57"/>
+<area shape="rect" id="Node000005" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="307,55,403,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="259,65,293,65,293,70,259,70"/>
+<area shape="rect" id="Node000006" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="312,104,397,129"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="256,78,307,97,305,102,254,83"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="451,55,557,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="395,28,453,48,451,53,393,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="403,65,437,65,437,70,403,70"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="393,101,451,82,453,87,395,106"/>
+</map>

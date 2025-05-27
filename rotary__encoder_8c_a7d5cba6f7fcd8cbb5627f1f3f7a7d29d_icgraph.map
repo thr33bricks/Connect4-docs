@@ -1,0 +1,51 @@
+<map id="getKnobsMem" name="getKnobsMem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="935,129,1041,155"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="795,203,882,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="950,163,867,205,865,200,948,158"/>
+<area shape="rect" id="Node000014" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="791,104,887,129"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="921,133,887,127,888,122,922,128"/>
+<area shape="rect" id="Node000015" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="796,153,881,179"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="922,155,882,162,881,157,921,150"/>
+<area shape="rect" id="Node000016" href="$rotary__encoder_8c.html#ac795de55df0debe654603373b0c0f2a6" title="Checks if button is down." alt="" coords="805,55,872,80"/>
+<area shape="poly" id="edge23_Node000001_Node000016" title=" " alt="" coords="948,125,864,83,866,78,950,120"/>
+<area shape="rect" id="Node000003" href="$rotary__encoder_8c.html#ae3729780f87f293c333032d5de97ae4d" title="Get the rotary encoder rotation value." alt="" coords="649,104,727,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="796,198,789,193,765,169,741,145,718,132,720,127,744,141,769,165,792,189,799,194"/>
+<area shape="rect" id="Node000010" href="$rotary__encoder_8c.html#a24a3c341e902fa0c6ffe8bf0c679f1d3" title="Resets rotation." alt="" coords="652,155,724,180"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="784,201,723,181,725,176,786,196"/>
+<area shape="rect" id="Node000004" href="$page__game_8c.html#a81b4f5a34c1b52db1fbac2378a1ef2b8" title="Updates the current column selection based on the knob position." alt="" coords="464,5,580,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="640,100,632,95,617,81,607,69,598,57,584,44,563,33,565,28,587,40,602,53,612,65,621,78,635,91,642,95"/>
+<area shape="rect" id="Node000007" href="$page__instr_8c.html#a018317a4639ec25896b4788f02224295" title="Calculates the index of the first line to display at the top of the screen." alt="" coords="459,104,585,129"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="635,119,586,119,586,114,635,114"/>
+<area shape="rect" id="Node000005" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="121,7,215,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="450,21,215,22,215,16,450,16"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,81,56,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="117,40,105,46,49,83,46,79,103,41,115,35"/>
+<area shape="rect" id="Node000008" href="$page__instr_8c.html#a507b6f91035be3c6e6d473806a270516" title="Displays the instructions page." alt="" coords="280,56,411,81"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="460,103,392,84,394,79,462,98"/>
+<area shape="rect" id="Node000009" href="$logic__game_8c.html#acb37ef24c46b6415fa9553e839b2efd5" title="Handles the instructions page." alt="" coords="104,56,232,81"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="267,71,232,71,232,66,267,66"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="91,86,57,92,56,87,90,80"/>
+<area shape="rect" id="Node000011" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="122,155,214,180"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="639,178,569,188,479,197,380,201,280,195,214,183,215,177,280,190,380,195,479,192,568,183,638,173"/>
+<area shape="rect" id="Node000012" href="$logic__game_8c.html#a486f7b71aa892de0f05c6187647613b9" title="Inits a new game. Resets the selected x pos on the board, resets the rotary encoder state,..." alt="" coords="308,155,383,180"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="638,170,383,170,383,165,638,165"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="115,152,103,146,47,109,50,105,105,141,117,147"/>
+<area shape="poly" id="edge16_Node000012_Node000011" title=" " alt="" coords="294,170,214,170,214,165,294,165"/>
+<area shape="rect" id="Node000013" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="107,105,229,131"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="294,156,214,133,216,128,296,151"/>
+<area shape="poly" id="edge15_Node000013_Node000006" title=" " alt="" coords="93,108,56,101,57,96,94,102"/>
+<area shape="poly" id="edge18_Node000014_Node000003" title=" " alt="" coords="777,119,727,119,727,114,777,114"/>
+<area shape="poly" id="edge19_Node000014_Node000010" title=" " alt="" coords="788,136,725,158,723,153,786,131"/>
+<area shape="poly" id="edge21_Node000015_Node000003" title=" " alt="" coords="786,152,727,132,729,127,787,146"/>
+<area shape="poly" id="edge22_Node000015_Node000010" title=" " alt="" coords="782,169,724,170,724,164,782,164"/>
+<area shape="rect" id="Node000017" href="$rotary__encoder_8c.html#a42f4e5174e5a5fa90269fffd0d620ea5" title=" " alt="" coords="633,55,743,80"/>
+<area shape="poly" id="edge24_Node000016_Node000017" title=" " alt="" coords="792,70,743,70,743,65,792,65"/>
+<area shape="rect" id="Node000018" href="$rotary__encoder_8c.html#a451f6cbb24d2103bae855e1971b88f0b" title="Saves the reading by comparing values taken before and after an interval. After that it compares curr..." alt="" coords="479,55,565,80"/>
+<area shape="poly" id="edge25_Node000017_Node000018" title=" " alt="" coords="619,70,566,70,566,65,619,65"/>
+<area shape="rect" id="Node000019" href="$rotary__encoder_8c.html#a290df24c1c151a60c00d70b11b609792" title="Checks if button was pressed." alt="" coords="298,105,393,131"/>
+<area shape="poly" id="edge26_Node000018_Node000019" title=" " alt="" coords="466,86,391,108,389,103,465,81"/>
+<area shape="poly" id="edge27_Node000019_Node000005" title=" " alt="" coords="288,102,278,96,263,83,254,70,245,58,230,46,209,34,212,30,234,41,249,54,258,67,267,79,282,92,291,97"/>
+<area shape="poly" id="edge29_Node000019_Node000009" title=" " alt="" coords="285,104,214,84,215,79,287,99"/>
+<area shape="poly" id="edge30_Node000019_Node000011" title=" " alt="" coords="286,137,215,157,213,152,285,132"/>
+<area shape="poly" id="edge28_Node000019_Node000013" title=" " alt="" coords="284,121,230,121,230,115,284,115"/>
+</map>

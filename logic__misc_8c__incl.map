@@ -1,0 +1,10 @@
+<map id="codebase/logic_misc.c" name="codebase/logic_misc.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,5,185,31"/>
+<area shape="rect" id="Node000002" href="$logic__misc_8h.html" title="Misc functions complementing the game logic." alt="" coords="5,79,100,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,33,72,69,68,66,96,29"/>
+<area shape="rect" id="Node000004" href="$speaker_8h.html" title="A simple piezo buzzer library." alt="" coords="124,79,203,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,29,148,66,144,69,114,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="75,152,140,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,103,92,140,88,143,60,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="156,106,127,143,123,140,152,103"/>
+</map>

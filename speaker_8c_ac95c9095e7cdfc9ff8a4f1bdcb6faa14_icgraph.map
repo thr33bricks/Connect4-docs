@@ -1,0 +1,26 @@
+<map id="playTone" name="playTone">
+<area shape="rect" id="Node000001" title="Plays a frequency for a duration." alt="" coords="608,75,683,100"/>
+<area shape="rect" id="Node000002" href="$logic__misc_8c.html#a8f68ba65a63e5a90931dab7510ef35b8" title="Plays a click sound with the piezo buzzer." alt="" coords="281,75,395,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="594,90,395,90,395,85,594,85"/>
+<area shape="rect" id="Node000008" href="$music_8c.html#ab06116c427292088f23ac2e09b11bebd" title="Plays the Tetris theme song on the piezo speaker." alt="" coords="447,125,557,151"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="596,107,540,128,538,123,595,102"/>
+<area shape="rect" id="Node000009" href="$logic__misc_8c.html#a5290717f2b6602a15c40fedc00bc5d1d" title="Plays a scroll sound with the piezo buzzer." alt="" coords="444,12,560,37"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="602,71,531,40,533,35,604,67"/>
+<area shape="rect" id="Node000003" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="121,5,215,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,72,231,46,200,33,202,28,233,41,295,67"/>
+<area shape="rect" id="Node000005" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="107,153,229,179"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="304,109,233,144,206,156,204,151,231,140,301,104"/>
+<area shape="rect" id="Node000006" href="$logic__game_8c.html#acb37ef24c46b6415fa9553e839b2efd5" title="Handles the instructions page." alt="" coords="104,55,232,80"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="267,82,232,78,233,72,268,76"/>
+<area shape="rect" id="Node000007" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="122,104,214,129"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="268,102,215,111,214,106,267,97"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,80,56,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,39,105,46,50,82,47,78,103,41,117,34"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="115,150,103,144,47,108,50,103,105,140,117,146"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="91,84,57,91,56,85,90,79"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="108,109,56,100,57,94,109,104"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="433,146,230,164,230,158,433,141"/>
+<area shape="rect" id="Node000010" href="$page__game_8c.html#a81b4f5a34c1b52db1fbac2378a1ef2b8" title="Updates the current column selection based on the knob position." alt="" coords="280,9,396,35"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="430,26,396,26,396,20,430,21"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="266,23,216,22,216,16,266,18"/>
+</map>

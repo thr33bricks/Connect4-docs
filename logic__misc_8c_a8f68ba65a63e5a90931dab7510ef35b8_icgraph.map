@@ -1,0 +1,16 @@
+<map id="playClickSound" name="playClickSound">
+<area shape="rect" id="Node000001" title="Plays a click sound with the piezo buzzer." alt="" coords="280,80,393,105"/>
+<area shape="rect" id="Node000002" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="121,5,215,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,76,231,44,204,33,206,28,233,40,300,71"/>
+<area shape="rect" id="Node000004" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="107,55,229,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,85,229,79,230,74,267,79"/>
+<area shape="rect" id="Node000005" href="$logic__game_8c.html#acb37ef24c46b6415fa9553e839b2efd5" title="Handles the instructions page." alt="" coords="104,104,232,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="266,105,232,110,232,105,266,100"/>
+<area shape="rect" id="Node000006" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="122,153,214,179"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="297,114,233,143,203,156,201,151,231,138,295,109"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,80,56,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,38,105,44,49,82,46,78,103,40,115,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="94,84,57,91,56,86,93,79"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="90,106,56,100,57,94,91,100"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="118,150,103,143,48,108,51,103,105,138,120,146"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="draw" name="draw">
+<area shape="rect" id="Node000001" title="Updates the display." alt="" coords="5,55,56,80"/>
+<area shape="rect" id="Node000002" href="$mzapo__parlcd_8c.html#ab30b1b616caf5991cd8e1a6a52ba23e7" title=" " alt="" coords="111,5,235,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,56,122,33,124,38,57,61"/>
+<area shape="rect" id="Node000003" href="$mzapo__parlcd_8c.html#ab9125a7610ba0302c004802fb908590d" title=" " alt="" coords="111,55,235,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="56,65,98,65,98,70,56,70"/>
+<area shape="rect" id="Node000004" href="$mzapo__parlcd_8c.html#a688f82186392823303897ee3f270718a" title=" " alt="" coords="104,104,243,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="57,73,124,97,122,102,55,78"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="codebase/page_instr.c" name="codebase/page_instr.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="246,5,398,31"/>
+<area shape="rect" id="Node000002" href="$page__instr_8h.html" title="Functions for visualizing the instructions page." alt="" coords="5,79,97,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,33,109,78,108,73,278,28"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8h.html" title="A library that makes reading and using the rotary encoders and buttons extremely easy." alt="" coords="121,79,240,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,33,217,75,215,70,298,28"/>
+<area shape="rect" id="Node000005" href="$mzapo__parlcd_8h.html" title=" " alt="" coords="265,79,379,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="325,31,325,65,319,65,319,31"/>
+<area shape="rect" id="Node000006" href="$settings_8h.html" title=" " alt="" coords="404,79,483,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="343,28,413,69,411,74,340,33"/>
+<area shape="rect" id="Node000007" href="$lcd_8h.html" title="LCD display library." alt="" coords="507,79,558,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="357,28,495,74,493,80,355,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="219,152,284,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,102,206,145,205,150,83,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="194,102,232,140,228,144,190,106"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="312,106,274,144,270,140,308,102"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="508,103,496,107,298,156,297,150,495,101,506,98"/>
+</map>

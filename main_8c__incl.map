@@ -1,0 +1,26 @@
+<map id="codebase/main.c" name="codebase/main.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="373,5,494,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,67,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,30,242,51,80,81,79,76,241,45,372,25"/>
+<area shape="rect" id="Node000003" href="$serialize__lock_8h.html" title=" " alt="" coords="91,79,203,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="388,33,207,78,206,73,387,28"/>
+<area shape="rect" id="Node000005" href="$logic__game_8h.html" title="The main logic of the game, FSM representing all the pages and transitions between them." alt="" coords="227,79,325,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="409,33,315,75,313,71,407,28"/>
+<area shape="rect" id="Node000006" href="$settings_8h.html" title=" " alt="" coords="350,79,429,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="428,32,406,68,401,66,424,30"/>
+<area shape="rect" id="Node000007" href="$lcd_8h.html" title="LCD display library." alt="" coords="453,79,504,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="443,30,466,66,462,69,439,32"/>
+<area shape="rect" id="Node000008" href="$rotary__encoder_8h.html" title="A library that makes reading and using the rotary encoders and buttons extremely easy." alt="" coords="529,79,647,104"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="459,28,551,70,549,75,457,33"/>
+<area shape="rect" id="Node000009" href="$speaker_8h.html" title="A simple piezo buzzer library." alt="" coords="671,79,750,104"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="479,28,659,74,658,79,477,33"/>
+<area shape="rect" id="Node000010" href="$leds_8h.html" title="A library for controlling the 2 RGB leds and the 32 led line." alt="" coords="774,79,831,104"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="495,26,614,46,761,76,760,81,613,51,494,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="501,152,566,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,100,488,152,487,158,202,106"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="318,101,488,148,486,153,317,107"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="490,103,518,140,514,143,486,106"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="581,106,553,143,548,140,577,103"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="683,106,576,149,574,144,681,102"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="775,103,763,107,580,154,579,149,762,101,773,98"/>
+</map>

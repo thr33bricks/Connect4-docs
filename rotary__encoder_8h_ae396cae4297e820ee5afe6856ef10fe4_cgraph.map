@@ -1,0 +1,5 @@
+<map id="getRotGreen" name="getRotGreen">
+<area shape="rect" id="Node000001" title="Get the rotations value of the green rotary encoder." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="149,5,256,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,15,135,15,135,21,101,21"/>
+</map>

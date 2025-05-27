@@ -1,0 +1,12 @@
+<map id="drawBoard" name="drawBoard">
+<area shape="rect" id="Node000001" title="Draws the game board." alt="" coords="5,55,89,80"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#a2f7bb38e6b2e088bfc09141b35f6cd38" title="Draws with a single color over every pixel on the screen." alt="" coords="137,5,256,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,52,144,33,145,38,87,57"/>
+<area shape="rect" id="Node000003" href="$lcd_8c.html#ae61492e6000c8c07fd98931bfe9a2de0" title="Draws a filled circle." alt="" coords="146,55,247,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,65,132,65,132,70,90,70"/>
+<area shape="rect" id="Node000005" href="$lcd_8c.html#a3cd3824fc7c854eb5f287b4852bfff2a" title="Draws a filled rectangle." alt="" coords="149,104,244,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="87,78,145,97,144,102,86,83"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="304,80,383,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,73,291,81,290,86,247,79"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="244,106,290,99,291,104,245,112"/>
+</map>

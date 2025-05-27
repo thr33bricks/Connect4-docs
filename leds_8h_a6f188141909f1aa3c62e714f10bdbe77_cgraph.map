@@ -1,0 +1,7 @@
+<map id="gameOverLEDS" name="gameOverLEDS">
+<area shape="rect" id="Node000001" title="Plays animation on the 32 led." alt="" coords="5,31,123,56"/>
+<area shape="rect" id="Node000002" href="$mzapo__parlcd_8c.html#afef12925f598e36664d1d3b6de27c881" title=" " alt="" coords="171,5,265,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,31,157,25,158,31,123,36"/>
+<area shape="rect" id="Node000003" href="$leds_8c.html#aebed07973ee33f34e74eb43bea84c1d0" title="Sets the 32 leds line." alt="" coords="172,55,264,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,50,159,55,158,61,123,55"/>
+</map>

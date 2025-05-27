@@ -1,0 +1,29 @@
+<map id="drawFillCircle" name="drawFillCircle">
+<area shape="rect" id="Node000001" title="Draws a filled circle." alt="" coords="676,105,777,131"/>
+<area shape="rect" id="Node000002" href="$page__game_8c.html#a36d7102bc81632d4c60c7ddca184dd85" title="Draws the game board." alt="" coords="531,5,615,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="699,98,666,71,627,44,605,33,607,28,629,40,669,67,703,94"/>
+<area shape="rect" id="Node000006" href="$page__game_8c.html#a07e019227ac1da776ce1be7f94fc4d07" title="Draws a circle home button." alt="" coords="530,55,615,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="673,103,611,83,613,78,675,98"/>
+<area shape="rect" id="Node000007" href="$page__game_8c.html#a7742728dceb6f70a24f40c8b61b4a2d7" title="Draws the animation for the home button." alt="" coords="284,105,465,131"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="662,121,465,121,465,115,662,115"/>
+<area shape="rect" id="Node000008" href="$page__instr_8c.html#aaafb7615e9c7fbc7a9e7b0c96d6628e6" title="Draws the home button." alt="" coords="517,156,628,181"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="675,138,613,158,611,153,673,133"/>
+<area shape="rect" id="Node000011" href="$page__instr_8c.html#a3a5f3555d4994b702d49dfac5b13f1de" title="Draws the animation for the home button." alt="" coords="280,204,469,229"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="706,143,672,172,629,196,590,209,549,217,470,223,470,218,548,212,588,204,627,192,669,167,702,139"/>
+<area shape="rect" id="Node000003" href="$page__game_8c.html#a50cb55b1adb9f425e5c74d1fbaab361b" title="Displays the game page." alt="" coords="325,55,424,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="518,34,425,58,423,53,516,29"/>
+<area shape="rect" id="Node000004" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="121,105,215,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="312,85,216,109,215,104,311,80"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,131,56,156"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,132,57,141,56,136,106,127"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="516,70,424,70,424,65,516,65"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="517,84,426,108,424,103,516,79"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="270,121,216,121,216,115,270,115"/>
+<area shape="rect" id="Node000009" href="$page__instr_8c.html#a507b6f91035be3c6e6d473806a270516" title="Displays the instructions page." alt="" coords="309,155,440,180"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="503,171,440,170,440,165,503,166"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="507,187,428,207,427,201,506,182"/>
+<area shape="rect" id="Node000010" href="$logic__game_8c.html#acb37ef24c46b6415fa9553e839b2efd5" title="Handles the instructions page." alt="" coords="104,155,232,180"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="295,170,232,170,232,165,295,165"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="90,156,56,150,57,145,91,151"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="307,203,221,183,223,177,308,198"/>
+</map>

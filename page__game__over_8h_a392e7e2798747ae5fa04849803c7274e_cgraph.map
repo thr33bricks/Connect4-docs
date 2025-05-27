@@ -1,0 +1,15 @@
+<map id="drawMenuButton" name="drawMenuButton">
+<area shape="rect" id="Node000001" title="Draws a blue menu button." alt="" coords="5,32,125,57"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#a292cc065e968c065c6099596345fce28" title="Draws a rectangle." alt="" coords="173,7,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,32,160,26,161,31,126,37"/>
+<area shape="rect" id="Node000005" href="$lcd_8c.html#ab3983e0b7ec907367a0ca03b239b96a3" title="Draws text." alt="" coords="175,56,250,81"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="126,52,162,58,161,63,125,57"/>
+<area shape="rect" id="Node000003" href="$lcd_8c.html#a29bca90827676f7680e4ed254d331e2a" title="Draws a line." alt="" coords="312,5,387,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,16,298,16,298,21,252,22"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="447,56,525,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="385,28,439,48,437,53,384,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="251,66,433,66,433,71,251,71"/>
+<area shape="rect" id="Node000006" href="$lcd_8c.html#a768a17ccf375e1ca3333f8bce1974217" title=" " alt="" coords="300,107,399,132"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="249,79,302,99,300,104,247,84"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="384,104,437,84,439,89,385,109"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="drawHome" name="drawHome">
+<area shape="rect" id="Node000001" title="Draws a circle home button." alt="" coords="5,31,91,56"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#ae61492e6000c8c07fd98931bfe9a2de0" title="Draws a filled circle." alt="" coords="139,5,240,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,33,125,27,126,32,91,38"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#a29bca90827676f7680e4ed254d331e2a" title="Draws a line." alt="" coords="152,55,227,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,48,139,56,138,61,90,53"/>
+<area shape="rect" id="Node000003" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="288,31,367,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,25,275,31,274,36,240,30"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="226,58,274,50,275,55,227,64"/>
+</map>

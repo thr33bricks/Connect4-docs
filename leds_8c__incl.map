@@ -1,0 +1,16 @@
+<map id="codebase/leds.c" name="codebase/leds.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,5,276,31"/>
+<area shape="rect" id="Node000002" href="$leds_8h.html" title="A library for controlling the 2 RGB leds and the 32 led line." alt="" coords="137,79,194,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,33,184,69,180,66,207,29"/>
+<area shape="rect" id="Node000004" href="$mzapo__phys_8h.html" title=" " alt="" coords="5,79,112,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,33,98,75,96,71,191,28"/>
+<area shape="rect" id="Node000006" href="$mzapo__regs_8h.html" title=" " alt="" coords="219,79,323,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="228,29,256,66,252,69,224,33"/>
+<area shape="rect" id="Node000007" href="$mzapo__parlcd_8h.html" title=" " alt="" coords="347,79,461,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="248,28,362,71,360,76,246,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="251,152,317,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,102,254,142,251,147,183,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="13,152,104,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="61,104,61,138,56,138,56,104"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="386,106,317,147,314,142,383,102"/>
+</map>

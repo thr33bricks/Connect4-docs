@@ -1,0 +1,17 @@
+<map id="codebase/music.c" name="codebase/music.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,5,281,31"/>
+<area shape="rect" id="Node000002" href="$music_8h.html" title="A music library used for playing songs, notes and algorithm provided by Robson Couto...." alt="" coords="5,79,73,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,33,82,76,80,71,187,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,79,162,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,33,156,72,153,68,201,29"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="186,79,247,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,31,219,65,214,65,214,31"/>
+<area shape="rect" id="Node000006" href="$mzapo__parlcd_8h.html" title=" " alt="" coords="271,79,386,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="236,28,300,69,297,73,233,33"/>
+<area shape="rect" id="Node000007" href="$speaker_8h.html" title="A simple piezo buzzer library." alt="" coords="411,79,489,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="255,28,400,72,399,77,253,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="296,152,361,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,98,283,149,282,155,73,104"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="331,104,331,138,326,138,326,104"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="432,106,361,147,359,143,429,102"/>
+</map>

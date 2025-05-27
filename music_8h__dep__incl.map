@@ -1,0 +1,7 @@
+<map id="codebase/music.h" name="codebase/music.h">
+<area shape="rect" id="Node000001" title="A music library used for playing songs, notes and algorithm provided by Robson Couto...." alt="" coords="105,5,233,31"/>
+<area shape="rect" id="Node000002" href="$logic__game_8c.html" title=" " alt="" coords="5,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,42,100,80,97,76,143,38"/>
+<area shape="rect" id="Node000003" href="$music_8c.html" title=" " alt="" coords="189,79,317,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,38,241,76,237,80,191,42"/>
+</map>

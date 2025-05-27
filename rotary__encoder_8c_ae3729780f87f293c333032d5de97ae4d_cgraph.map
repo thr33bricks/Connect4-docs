@@ -1,0 +1,13 @@
+<map id="getRotDir" name="getRotDir">
+<area shape="rect" id="Node000001" title="Get the rotary encoder rotation value." alt="" coords="5,55,84,80"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="137,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,52,131,33,133,38,81,57"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="132,55,228,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="84,65,118,65,118,70,84,70"/>
+<area shape="rect" id="Node000005" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="137,104,223,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="81,78,133,97,131,102,79,83"/>
+<area shape="rect" id="Node000003" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="276,55,383,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,28,278,48,276,53,218,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="228,65,262,65,262,70,228,70"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="218,101,276,82,278,87,220,106"/>
+</map>

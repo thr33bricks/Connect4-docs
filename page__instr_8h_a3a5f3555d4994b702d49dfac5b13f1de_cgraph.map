@@ -1,0 +1,23 @@
+<map id="drawHomeInstrBtnAnimation" name="drawHomeInstrBtnAnimation">
+<area shape="rect" id="Node000001" title="Draws the animation for the home button." alt="" coords="5,165,195,191"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#a56c5cf8a568cff737ff95520cbe6b405" title="Updates the display." alt="" coords="273,67,323,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,163,259,96,261,100,128,168"/>
+<area shape="rect" id="Node000006" href="$lcd_8c.html#ae61492e6000c8c07fd98931bfe9a2de0" title="Draws a filled circle." alt="" coords="420,153,521,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="195,172,406,165,406,171,195,178"/>
+<area shape="rect" id="Node000008" href="$page__instr_8c.html#aaafb7615e9c7fbc7a9e7b0c96d6628e6" title="Draws the home button." alt="" coords="243,191,353,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="195,188,229,192,229,197,195,193"/>
+<area shape="rect" id="Node000010" href="$mzapo__parlcd_8c.html#afef12925f598e36664d1d3b6de27c881" title=" " alt="" coords="251,240,345,265"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="136,188,252,233,250,238,134,193"/>
+<area shape="rect" id="Node000003" href="$mzapo__parlcd_8c.html#ab30b1b616caf5991cd8e1a6a52ba23e7" title=" " alt="" coords="409,5,533,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,68,400,39,419,33,421,38,402,45,325,73"/>
+<area shape="rect" id="Node000004" href="$mzapo__parlcd_8c.html#ab9125a7610ba0302c004802fb908590d" title=" " alt="" coords="409,55,533,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="324,75,395,70,395,75,324,80"/>
+<area shape="rect" id="Node000005" href="$mzapo__parlcd_8c.html#a688f82186392823303897ee3f270718a" title=" " alt="" coords="401,104,540,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="324,82,399,98,398,104,323,87"/>
+<area shape="rect" id="Node000007" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="588,179,667,204"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="522,172,575,180,574,185,521,177"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="353,189,406,177,407,182,354,194"/>
+<area shape="rect" id="Node000009" href="$lcd_8c.html#a29bca90827676f7680e4ed254d331e2a" title="Draws a line." alt="" coords="433,203,508,228"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="354,205,420,209,419,214,353,210"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="508,207,574,197,575,202,509,212"/>
+</map>

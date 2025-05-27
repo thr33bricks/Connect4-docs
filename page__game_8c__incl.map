@@ -1,0 +1,26 @@
+<map id="codebase/page_game.c" name="codebase/page_game.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="319,5,479,31"/>
+<area shape="rect" id="Node000002" href="$page__game_8h.html" title="Functions for visualizing the Game page." alt="" coords="5,79,105,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,33,119,80,118,74,344,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="130,79,191,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,33,206,79,204,74,360,28"/>
+<area shape="rect" id="Node000005" href="$settings_8h.html" title=" " alt="" coords="216,79,295,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="377,33,292,75,290,70,375,28"/>
+<area shape="rect" id="Node000006" href="$lcd_8h.html" title="LCD display library." alt="" coords="319,79,370,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="392,33,364,69,360,66,388,29"/>
+<area shape="rect" id="Node000007" href="$rotary__encoder_8h.html" title="A library that makes reading and using the rotary encoders and buttons extremely easy." alt="" coords="395,79,513,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="410,29,439,66,435,69,406,33"/>
+<area shape="rect" id="Node000008" href="$logic__misc_8h.html" title="Misc functions complementing the game logic." alt="" coords="537,79,632,104"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="430,28,543,71,541,76,428,33"/>
+<area shape="rect" id="Node000009" href="$mzapo__parlcd_8h.html" title=" " alt="" coords="657,79,771,104"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="450,28,650,73,649,78,449,33"/>
+<area shape="rect" id="Node000010" href="$page__game__over_8h.html" title="Functions for visualizing the Game over page." alt="" coords="795,79,926,104"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="474,28,782,75,781,81,473,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="487,152,552,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,99,118,101,473,154,473,160,118,107,105,105"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="371,100,479,144,477,149,369,105"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="467,103,501,140,498,144,463,106"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="576,106,541,144,537,140,572,103"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="684,107,565,150,563,145,682,102"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="806,107,566,156,565,151,805,101"/>
+</map>

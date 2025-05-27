@@ -1,0 +1,13 @@
+<map id="displayScroll" name="displayScroll">
+<area shape="rect" id="Node000001" title="Displays the scroll on the right of the screen." alt="" coords="5,55,101,80"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#a3cd3824fc7c854eb5f287b4852bfff2a" title="Draws a filled rectangle." alt="" coords="293,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,55,149,46,280,24,280,30,150,51,102,60"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#a29bca90827676f7680e4ed254d331e2a" title="Draws a line." alt="" coords="303,55,378,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="102,65,290,65,290,70,102,70"/>
+<area shape="rect" id="Node000005" href="$lcd_8c.html#a4e0a5166dc6e2da64be385fb28047c37" title="Draws a triangle." alt="" coords="149,105,245,131"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="91,78,149,98,147,103,89,83"/>
+<area shape="rect" id="Node000003" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="436,31,515,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,24,423,31,422,36,388,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="378,58,422,50,423,55,379,63"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="233,103,290,82,292,87,235,108"/>
+</map>

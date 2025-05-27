@@ -1,0 +1,25 @@
+<map id="setLed2" name="setLed2">
+<area shape="rect" id="Node000001" title="Sets RGB led 2." alt="" coords="581,52,649,77"/>
+<area shape="rect" id="Node000002" href="$leds_8c.html#aecb9e9ae0ef2bc9d6ae9eb3507ee4557" title="Sets the 2 RGB leds to yellow or red." alt="" coords="426,26,525,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,58,524,50,525,45,568,53"/>
+<area shape="rect" id="Node000006" href="$leds_8c.html#a5de67718afd8ea4063200edb50920d74" title="Turns the 2 RGB leds off." alt="" coords="417,77,533,102"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="568,75,534,82,533,77,567,70"/>
+<area shape="rect" id="Node000003" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="275,26,369,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,42,369,42,369,36,412,36"/>
+<area shape="rect" id="Node000005" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="104,78,227,104"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="427,25,393,16,355,10,315,9,275,16,247,29,221,46,181,80,177,76,217,41,244,24,274,11,314,4,355,4,394,11,429,19"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,104,56,129"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,41,185,48,144,56,105,68,73,86,47,106,44,101,70,81,103,63,143,51,184,43,260,36"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="91,108,57,114,56,109,90,102"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="422,75,360,54,362,49,424,70"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="404,93,227,93,227,88,404,87"/>
+<area shape="rect" id="Node000007" href="$logic__game_8c.html#a486f7b71aa892de0f05c6187647613b9" title="Inits a new game. Resets the selected x pos on the board, resets the rotary encoder state,..." alt="" coords="285,128,359,153"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="424,109,361,131,359,125,422,104"/>
+<area shape="rect" id="Node000009" href="$leds_8c.html#ad7bef4224d21ecc2b1c163529be7e406" title="Maps memory and turns off RGB leds." alt="" coords="132,177,199,202"/>
+<area shape="poly" id="edge13_Node000006_Node000009" title=" " alt="" coords="453,114,416,143,370,168,325,182,278,189,199,193,199,188,278,184,324,176,368,163,413,138,450,109"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="270,127,206,106,207,101,272,122"/>
+<area shape="rect" id="Node000008" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="119,128,211,153"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="271,143,211,143,211,138,271,138"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="106,132,56,123,57,118,107,127"/>
+<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="118,175,103,168,47,131,50,127,105,163,120,170"/>
+</map>

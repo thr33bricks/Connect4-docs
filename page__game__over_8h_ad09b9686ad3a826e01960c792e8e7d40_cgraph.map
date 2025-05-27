@@ -1,0 +1,40 @@
+<map id="displayGameOver" name="displayGameOver">
+<area shape="rect" id="Node000001" title="Displays the game over page." alt="" coords="5,205,132,231"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#a56c5cf8a568cff737ff95520cbe6b405" title="Updates the display." alt="" coords="224,55,275,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,204,115,149,145,117,179,89,210,74,212,79,181,94,148,121,119,153,80,207"/>
+<area shape="rect" id="Node000006" href="$lcd_8c.html#a2f7bb38e6b2e088bfc09141b35f6cd38" title="Draws with a single color over every pixel on the screen." alt="" coords="190,104,309,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="87,203,179,146,205,133,208,138,181,151,90,208"/>
+<area shape="rect" id="Node000007" href="$page__game__over_8c.html#a1cf4501f3e69ace6c30598d792446495" title="Draws the title, who wins or tie." alt="" coords="180,205,319,231"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="132,215,166,215,166,221,132,221"/>
+<area shape="rect" id="Node000011" href="$lcd_8c.html#a1e5af950e5006c73b7d843966d427815" title="Sets shadow behind text." alt="" coords="393,180,479,205"/>
+<area shape="poly" id="edge22_Node000001_Node000011" title=" " alt="" coords="114,203,180,190,285,184,379,186,379,192,286,190,180,195,115,208"/>
+<area shape="rect" id="Node000012" href="$page__game__over_8c.html#a392e7e2798747ae5fa04849803c7274e" title="Draws a blue menu button." alt="" coords="189,353,309,379"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="80,229,120,282,149,313,182,340,191,345,188,350,178,344,145,317,116,286,76,232"/>
+<area shape="rect" id="Node000015" href="$page__game__over_8c.html#aa9e70e14637ee5c295c75abd0b049711" title="Draws the play again button." alt="" coords="183,304,316,329"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="88,229,129,259,181,290,195,297,193,301,179,295,126,263,84,233"/>
+<area shape="rect" id="Node000016" href="$page__game__over_8c.html#a8482356b90b36da20b6bd959fddb23ef" title="Draws the game score at a specified location." alt="" coords="207,255,291,280"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="117,228,195,250,193,255,115,233"/>
+<area shape="rect" id="Node000003" href="$mzapo__parlcd_8c.html#ab30b1b616caf5991cd8e1a6a52ba23e7" title=" " alt="" coords="374,5,498,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,58,373,32,375,37,275,63"/>
+<area shape="rect" id="Node000004" href="$mzapo__parlcd_8c.html#ab9125a7610ba0302c004802fb908590d" title=" " alt="" coords="374,55,498,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,65,360,65,360,70,275,70"/>
+<area shape="rect" id="Node000005" href="$mzapo__parlcd_8c.html#a688f82186392823303897ee3f270718a" title=" " alt="" coords="367,104,505,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,71,375,98,373,103,274,76"/>
+<area shape="rect" id="Node000008" href="$lcd_8c.html#ab3983e0b7ec907367a0ca03b239b96a3" title="Draws text." alt="" coords="399,279,473,304"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="289,228,320,240,395,271,393,276,318,244,287,233"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="319,206,379,198,379,203,320,211"/>
+<area shape="rect" id="Node000009" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="700,291,779,316"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="474,290,686,299,686,304,473,295"/>
+<area shape="rect" id="Node000010" href="$lcd_8c.html#a768a17ccf375e1ca3333f8bce1974217" title=" " alt="" coords="553,240,652,265"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="473,280,539,265,540,270,474,285"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="639,263,692,283,690,288,637,268"/>
+<area shape="poly" id="edge16_Node000012_Node000008" title=" " alt="" coords="287,351,318,340,393,307,396,312,320,344,289,356"/>
+<area shape="rect" id="Node000013" href="$lcd_8c.html#a292cc065e968c065c6099596345fce28" title="Draws a rectangle." alt="" coords="397,341,475,367"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="309,360,382,355,383,360,310,365"/>
+<area shape="rect" id="Node000014" href="$lcd_8c.html#a29bca90827676f7680e4ed254d331e2a" title="Draws a line." alt="" coords="565,341,640,367"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="475,351,552,351,552,357,475,357"/>
+<area shape="poly" id="edge15_Node000014_Node000009" title=" " alt="" coords="637,339,690,319,692,324,639,344"/>
+<area shape="poly" id="edge19_Node000015_Node000008" title=" " alt="" coords="316,305,385,296,385,301,316,310"/>
+<area shape="poly" id="edge18_Node000015_Node000013" title=" " alt="" coords="314,327,383,341,382,346,313,332"/>
+<area shape="poly" id="edge21_Node000016_Node000008" title=" " alt="" coords="292,270,385,282,385,288,291,275"/>
+</map>

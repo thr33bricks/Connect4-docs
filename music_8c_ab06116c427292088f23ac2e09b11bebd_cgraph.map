@@ -1,0 +1,8 @@
+<map id="playKorobeiniki" name="playKorobeiniki">
+<area shape="rect" id="Node000001" title="Plays the Tetris theme song on the piezo speaker." alt="" coords="5,5,116,31"/>
+<area shape="rect" id="Node000002" href="$mzapo__parlcd_8c.html#afef12925f598e36664d1d3b6de27c881" title=" " alt="" coords="287,5,381,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,15,272,15,272,21,116,21"/>
+<area shape="rect" id="Node000003" href="$speaker_8c.html#ac95c9095e7cdfc9ff8a4f1bdcb6faa14" title="Plays a frequency for a duration." alt="" coords="164,31,239,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,25,151,32,150,37,116,31"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="238,34,272,27,273,32,239,39"/>
+</map>

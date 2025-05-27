@@ -1,0 +1,19 @@
+<map id="setPlayerLedOff" name="setPlayerLedOff">
+<area shape="rect" id="Node000001" title="Turns the 2 RGB leds off." alt="" coords="397,80,513,105"/>
+<area shape="rect" id="Node000002" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="118,5,213,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,79,349,65,212,31,214,26,350,59,400,74"/>
+<area shape="rect" id="Node000004" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="104,55,227,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="383,89,227,75,227,70,384,84"/>
+<area shape="rect" id="Node000005" href="$logic__game_8c.html#a486f7b71aa892de0f05c6187647613b9" title="Inits a new game. Resets the selected x pos on the board, resets the rotary encoder state,..." alt="" coords="275,105,349,131"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="384,108,350,114,349,109,383,103"/>
+<area shape="rect" id="Node000007" href="$leds_8c.html#ad7bef4224d21ecc2b1c163529be7e406" title="Maps memory and turns off RGB leds." alt="" coords="279,155,345,180"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="419,114,339,157,336,152,416,110"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,80,56,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,39,105,44,49,82,46,78,103,40,114,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="91,84,57,91,56,85,90,79"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="261,103,202,83,204,78,262,98"/>
+<area shape="rect" id="Node000006" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="119,104,211,129"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="261,120,212,120,212,114,261,115"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="106,109,56,100,57,94,107,104"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="265,171,188,165,145,157,103,144,71,127,45,108,48,103,73,123,105,140,146,152,188,159,265,165"/>
+</map>

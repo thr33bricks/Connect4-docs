@@ -1,0 +1,114 @@
+<map id="handleGame" name="handleGame">
+<area shape="rect" id="Node000001" title="Handles the game page." alt="" coords="5,592,100,617"/>
+<area shape="rect" id="Node000002" href="$page__game_8c.html#a9470beb01e0574088a8f38f228d4fa2e" title="Removes the green selector for the board." alt="" coords="191,104,286,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,591,60,502,76,366,89,295,104,230,123,176,146,139,160,128,177,120,179,125,163,132,150,142,128,178,110,231,94,296,82,367,65,502,57,592"/>
+<area shape="rect" id="Node000003" href="$page__game_8c.html#a81b4f5a34c1b52db1fbac2378a1ef2b8" title="Updates the current column selection based on the knob position." alt="" coords="181,153,297,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,591,85,470,111,386,146,302,181,239,217,188,221,191,186,242,150,304,116,388,90,472,59,592"/>
+<area shape="rect" id="Node000013" href="$page__game_8c.html#a50cb55b1adb9f425e5c74d1fbaab361b" title="Displays the game page." alt="" coords="189,555,288,580"/>
+<area shape="poly" id="edge11_Node000001_Node000013" title=" " alt="" coords="100,593,175,577,176,582,101,598"/>
+<area shape="rect" id="Node000029" href="$page__game_8c.html#a7742728dceb6f70a24f40c8b61b4a2d7" title="Draws the animation for the home button." alt="" coords="148,479,329,504"/>
+<area shape="poly" id="edge30_Node000001_Node000029" title=" " alt="" coords="71,590,147,540,201,508,203,513,149,544,74,594"/>
+<area shape="rect" id="Node000030" href="$logic__misc_8c.html#add5dbc04e3ddbaa64211b197e7f24975" title="Checks if there is a winner and who or whether the game is tie." alt="" coords="191,641,286,667"/>
+<area shape="poly" id="edge35_Node000001_Node000030" title=" " alt="" coords="101,615,179,635,177,641,100,620"/>
+<area shape="rect" id="Node000033" href="$page__game_8c.html#a49646f4558175c7330ee1b44ea18fe33" title="Places a disc in a non&#45;empty cell." alt="" coords="199,691,279,716"/>
+<area shape="poly" id="edge38_Node000001_Node000033" title=" " alt="" coords="69,615,103,646,149,676,186,690,184,695,147,680,100,650,65,619"/>
+<area shape="rect" id="Node000034" href="$logic__misc_8c.html#a8f68ba65a63e5a90931dab7510ef35b8" title="Plays a click sound with the piezo buzzer." alt="" coords="182,316,295,341"/>
+<area shape="poly" id="edge39_Node000001_Node000034" title=" " alt="" coords="60,590,219,352,223,355,65,593"/>
+<area shape="rect" id="Node000035" href="$leds_8c.html#aecb9e9ae0ef2bc9d6ae9eb3507ee4557" title="Sets the 2 RGB leds to yellow or red." alt="" coords="189,759,288,784"/>
+<area shape="poly" id="edge41_Node000001_Node000035" title=" " alt="" coords="63,616,97,668,122,698,150,725,192,751,189,755,146,729,118,702,93,671,59,619"/>
+<area shape="rect" id="Node000038" href="$leds_8c.html#a5de67718afd8ea4063200edb50920d74" title="Turns the 2 RGB leds off." alt="" coords="181,808,297,833"/>
+<area shape="poly" id="edge44_Node000001_Node000038" title=" " alt="" coords="59,617,68,652,86,700,112,750,130,773,150,793,169,805,166,810,146,797,126,777,108,753,81,702,63,654,54,618"/>
+<area shape="rect" id="Node000039" href="$rotary__encoder_8c.html#a290df24c1c151a60c00d70b11b609792" title="Checks if button was pressed." alt="" coords="191,948,286,973"/>
+<area shape="poly" id="edge47_Node000001_Node000039" title=" " alt="" coords="60,617,92,714,118,779,150,843,184,894,218,936,214,939,180,897,146,846,114,781,87,715,55,619"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8c.html#ae3729780f87f293c333032d5de97ae4d" title="Get the rotary encoder rotation value." alt="" coords="399,55,477,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="296,152,328,138,342,127,352,115,361,102,376,89,385,84,388,88,379,93,365,106,356,118,346,131,331,143,298,157"/>
+<area shape="rect" id="Node000009" href="$logic__misc_8c.html#a5290717f2b6602a15c40fedc00bc5d1d" title="Plays a scroll sound with the piezo buzzer." alt="" coords="380,104,496,129"/>
+<area shape="poly" id="edge7_Node000003_Node000009" title=" " alt="" coords="290,151,372,130,373,135,291,156"/>
+<area shape="rect" id="Node000012" href="$page__game_8c.html#ad4c56fe243dae26b00e1c0ba1ebf1419" title="Searches for a non&#45;empty column based on the direction of the knob (&#39;r&#39; or &#39;l&#39;)" alt="" coords="377,153,499,179"/>
+<area shape="poly" id="edge10_Node000003_Node000012" title=" " alt="" coords="297,163,364,163,364,169,297,169"/>
+<area shape="rect" id="Node000005" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="573,5,659,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="477,54,559,31,560,36,478,59"/>
+<area shape="rect" id="Node000007" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="568,55,664,80"/>
+<area shape="poly" id="edge5_Node000004_Node000007" title=" " alt="" coords="477,65,555,65,555,70,477,70"/>
+<area shape="rect" id="Node000008" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="573,104,659,129"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="478,75,561,99,559,104,477,81"/>
+<area shape="rect" id="Node000010" href="$speaker_8c.html#ac95c9095e7cdfc9ff8a4f1bdcb6faa14" title="Plays a frequency for a duration." alt="" coords="579,179,653,204"/>
+<area shape="poly" id="edge8_Node000009_Node000010" title=" " alt="" coords="472,127,500,138,575,171,573,176,498,143,470,132"/>
+<area shape="rect" id="Node000011" href="$mzapo__parlcd_8c.html#afef12925f598e36664d1d3b6de27c881" title=" " alt="" coords="733,204,828,229"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="654,194,720,205,719,210,653,200"/>
+<area shape="rect" id="Node000014" href="$lcd_8c.html#a56c5cf8a568cff737ff95520cbe6b405" title="Updates the display." alt="" coords="413,379,463,404"/>
+<area shape="poly" id="edge12_Node000013_Node000014" title=" " alt="" coords="270,552,300,536,327,514,343,488,350,464,357,439,376,413,398,399,401,404,379,417,362,441,355,465,348,490,331,517,303,540,273,557"/>
+<area shape="rect" id="Node000018" href="$page__game_8c.html#a36d7102bc81632d4c60c7ddca184dd85" title="Draws the game board." alt="" coords="396,428,480,453"/>
+<area shape="poly" id="edge16_Node000013_Node000018" title=" " alt="" coords="262,552,328,513,407,459,410,464,331,518,264,557"/>
+<area shape="rect" id="Node000023" href="$page__game_8c.html#a07e019227ac1da776ce1be7f94fc4d07" title="Draws a circle home button." alt="" coords="395,529,481,555"/>
+<area shape="poly" id="edge22_Node000013_Node000023" title=" " alt="" coords="288,558,381,546,382,552,288,564"/>
+<area shape="rect" id="Node000025" href="$page__game__over_8c.html#a8482356b90b36da20b6bd959fddb23ef" title="Draws the game score at a specified location." alt="" coords="396,579,480,604"/>
+<area shape="poly" id="edge26_Node000013_Node000025" title=" " alt="" coords="288,571,383,582,382,587,288,576"/>
+<area shape="rect" id="Node000028" href="$lcd_8c.html#a1e5af950e5006c73b7d843966d427815" title="Sets shadow behind text." alt="" coords="395,628,481,653"/>
+<area shape="poly" id="edge29_Node000013_Node000028" title=" " alt="" coords="275,578,390,620,388,625,273,583"/>
+<area shape="rect" id="Node000015" href="$mzapo__parlcd_8c.html#ab30b1b616caf5991cd8e1a6a52ba23e7" title=" " alt="" coords="554,280,678,305"/>
+<area shape="poly" id="edge13_Node000014_Node000015" title=" " alt="" coords="453,376,494,346,545,314,559,308,562,313,548,319,497,350,456,381"/>
+<area shape="rect" id="Node000016" href="$mzapo__parlcd_8c.html#ab9125a7610ba0302c004802fb908590d" title=" " alt="" coords="554,329,678,355"/>
+<area shape="poly" id="edge14_Node000014_Node000016" title=" " alt="" coords="463,382,555,356,557,361,464,387"/>
+<area shape="rect" id="Node000017" href="$mzapo__parlcd_8c.html#a688f82186392823303897ee3f270718a" title=" " alt="" coords="547,379,685,404"/>
+<area shape="poly" id="edge15_Node000014_Node000017" title=" " alt="" coords="463,389,533,389,533,394,463,394"/>
+<area shape="rect" id="Node000019" href="$lcd_8c.html#a2f7bb38e6b2e088bfc09141b35f6cd38" title="Draws with a single color over every pixel on the screen." alt="" coords="557,428,675,453"/>
+<area shape="poly" id="edge17_Node000018_Node000019" title=" " alt="" coords="480,438,543,438,543,443,480,443"/>
+<area shape="rect" id="Node000020" href="$lcd_8c.html#ae61492e6000c8c07fd98931bfe9a2de0" title="Draws a filled circle." alt="" coords="565,527,667,552"/>
+<area shape="poly" id="edge18_Node000018_Node000020" title=" " alt="" coords="467,451,500,471,524,492,548,512,562,519,560,524,545,516,521,496,497,475,465,456"/>
+<area shape="rect" id="Node000022" href="$lcd_8c.html#a3cd3824fc7c854eb5f287b4852bfff2a" title="Draws a filled rectangle." alt="" coords="569,477,663,503"/>
+<area shape="poly" id="edge20_Node000018_Node000022" title=" " alt="" coords="481,450,557,471,556,476,480,455"/>
+<area shape="rect" id="Node000021" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="741,552,820,577"/>
+<area shape="poly" id="edge19_Node000020_Node000021" title=" " alt="" coords="667,544,728,554,727,559,666,550"/>
+<area shape="poly" id="edge21_Node000022_Node000021" title=" " alt="" coords="658,500,686,512,747,543,745,547,684,516,656,505"/>
+<area shape="poly" id="edge23_Node000023_Node000020" title=" " alt="" coords="481,539,552,538,552,543,481,544"/>
+<area shape="rect" id="Node000024" href="$lcd_8c.html#a29bca90827676f7680e4ed254d331e2a" title="Draws a line." alt="" coords="579,576,653,601"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="482,550,566,573,565,578,480,556"/>
+<area shape="poly" id="edge25_Node000024_Node000021" title=" " alt="" coords="653,581,727,570,728,575,654,586"/>
+<area shape="rect" id="Node000026" href="$lcd_8c.html#ab3983e0b7ec907367a0ca03b239b96a3" title="Draws text." alt="" coords="579,625,653,651"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="481,600,566,622,565,628,480,605"/>
+<area shape="poly" id="edge28_Node000026_Node000021" title=" " alt="" coords="653,623,684,610,743,581,745,586,686,615,655,628"/>
+<area shape="poly" id="edge34_Node000029_Node000011" title=" " alt="" coords="250,477,303,425,376,364,456,307,495,286,546,265,636,238,719,222,720,227,637,243,548,270,497,291,459,311,379,368,306,429,254,481"/>
+<area shape="poly" id="edge31_Node000029_Node000014" title=" " alt="" coords="260,476,376,413,398,403,400,408,379,418,263,481"/>
+<area shape="poly" id="edge32_Node000029_Node000020" title=" " alt="" coords="330,495,499,514,552,523,551,529,498,519,329,501"/>
+<area shape="poly" id="edge33_Node000029_Node000023" title=" " alt="" coords="290,502,382,525,381,530,289,507"/>
+<area shape="rect" id="Node000031" href="$logic__misc_8c.html#af7dbcfd1c7951c46dd71a52069d40530" title="Checks if the game is tie." alt="" coords="401,677,475,703"/>
+<area shape="poly" id="edge36_Node000030_Node000031" title=" " alt="" coords="287,660,388,678,387,684,286,665"/>
+<area shape="rect" id="Node000032" href="$logic__misc_8c.html#a11a31d3339830c2f8d2c4365009623f9" title="Checks if the passed colour wins." alt="" coords="389,727,487,752"/>
+<area shape="poly" id="edge37_Node000030_Node000032" title=" " alt="" coords="287,660,331,676,355,693,379,712,391,718,389,723,376,716,352,698,328,680,285,665"/>
+<area shape="poly" id="edge40_Node000034_Node000010" title=" " alt="" coords="257,313,309,280,376,246,475,215,564,196,565,202,477,220,378,251,312,285,260,318"/>
+<area shape="rect" id="Node000036" href="$leds_8c.html#ab7da1453702a48e7578958b037830075" title="Sets RGB led 1." alt="" coords="404,776,472,801"/>
+<area shape="poly" id="edge42_Node000035_Node000036" title=" " alt="" coords="288,773,391,782,390,787,288,778"/>
+<area shape="rect" id="Node000037" href="$leds_8c.html#a98e0f2238bf8d788f029f32845d7d417" title="Sets RGB led 2." alt="" coords="404,825,472,851"/>
+<area shape="poly" id="edge43_Node000035_Node000037" title=" " alt="" coords="289,781,330,793,395,817,394,822,328,798,287,786"/>
+<area shape="poly" id="edge45_Node000038_Node000036" title=" " alt="" coords="296,809,390,794,391,799,297,814"/>
+<area shape="poly" id="edge46_Node000038_Node000037" title=" " alt="" coords="297,823,391,831,390,837,297,828"/>
+<area shape="rect" id="Node000040" href="$rotary__encoder_8c.html#a451f6cbb24d2103bae855e1971b88f0b" title="Saves the reading by comparing values taken before and after an interval. After that it compares curr..." alt="" coords="395,923,481,948"/>
+<area shape="poly" id="edge48_Node000039_Node000040" title=" " alt="" coords="286,952,381,940,381,945,286,957"/>
+<area shape="rect" id="Node000052" href="$rotary__encoder_8c.html#aa60294a1ec58a9bb9fee5b84477f5456" title=" " alt="" coords="559,1171,673,1196"/>
+<area shape="poly" id="edge62_Node000039_Node000052" title=" " alt="" coords="286,954,335,955,392,962,450,979,476,993,500,1011,516,1029,524,1047,527,1085,529,1122,535,1140,549,1158,552,1161,549,1165,545,1161,531,1142,524,1123,521,1085,518,1049,511,1031,497,1015,474,997,448,984,391,967,335,960,286,960"/>
+<area shape="rect" id="Node000053" href="$rotary__encoder_8c.html#a6de4731cef19fec948afeb9f2f8609a6" title=" " alt="" coords="381,1024,495,1049"/>
+<area shape="poly" id="edge61_Node000039_Node000053" title=" " alt="" coords="274,971,392,1017,390,1022,272,976"/>
+<area shape="rect" id="Node000041" href="$rotary__encoder_8c.html#af7e794eee05d707f536623cbabddda68" title=" " alt="" coords="561,675,671,700"/>
+<area shape="poly" id="edge49_Node000040_Node000041" title=" " alt="" coords="450,921,474,894,496,861,506,839,511,819,514,782,521,747,530,728,545,710,549,706,552,710,549,713,534,731,526,748,519,783,516,820,511,841,501,863,478,897,454,924"/>
+<area shape="rect" id="Node000042" href="$rotary__encoder_8c.html#a578cf035a648ac322b856a72411de9a0" title=" " alt="" coords="572,724,660,749"/>
+<area shape="poly" id="edge50_Node000040_Node000042" title=" " alt="" coords="449,921,472,894,496,861,510,832,516,807,525,783,545,759,558,749,561,754,548,763,530,786,521,809,515,834,501,863,476,897,453,924"/>
+<area shape="rect" id="Node000043" href="$rotary__encoder_8c.html#a89b0e2295debe9b95e3870cfd4aa0d8c" title=" " alt="" coords="559,773,673,799"/>
+<area shape="poly" id="edge51_Node000040_Node000043" title=" " alt="" coords="448,921,501,856,545,808,555,802,557,807,548,812,505,860,452,924"/>
+<area shape="rect" id="Node000044" href="$rotary__encoder_8c.html#ad12e2c4781863f12d8f893c364dd5163" title=" " alt="" coords="561,823,671,848"/>
+<area shape="poly" id="edge52_Node000040_Node000044" title=" " alt="" coords="453,920,493,889,545,857,559,851,562,855,548,862,496,894,456,925"/>
+<area shape="rect" id="Node000045" href="$rotary__encoder_8c.html#a4f31ba8a3b3b7b84eff0091318374b74" title=" " alt="" coords="549,872,683,897"/>
+<area shape="poly" id="edge53_Node000040_Node000045" title=" " alt="" coords="481,921,557,899,559,904,483,926"/>
+<area shape="rect" id="Node000046" href="$rotary__encoder_8c.html#a51ca22f5e92260d1d3f69724a51c551a" title=" " alt="" coords="755,948,807,973"/>
+<area shape="poly" id="edge54_Node000040_Node000046" title=" " alt="" coords="482,936,741,955,741,960,481,941"/>
+<area shape="rect" id="Node000047" href="$rotary__encoder_8c.html#a1b611a40575b621779001f7bfcc5ecb2" title=" " alt="" coords="561,1023,671,1048"/>
+<area shape="poly" id="edge55_Node000040_Node000047" title=" " alt="" coords="468,946,500,965,524,988,548,1009,559,1015,557,1020,545,1014,520,992,497,969,465,950"/>
+<area shape="rect" id="Node000048" href="$rotary__encoder_8c.html#aa06faf58f9149db90cb45bb6f49f7282" title=" " alt="" coords="572,1072,660,1097"/>
+<area shape="poly" id="edge56_Node000040_Node000048" title=" " alt="" coords="473,946,501,965,517,991,524,1014,531,1037,548,1059,561,1067,558,1072,545,1063,527,1039,519,1016,513,993,497,969,470,950"/>
+<area shape="rect" id="Node000049" href="$rotary__encoder_8c.html#ad172638967097add32c0c4e699708688" title=" " alt="" coords="559,973,673,999"/>
+<area shape="poly" id="edge57_Node000040_Node000049" title=" " alt="" coords="483,945,559,967,557,972,481,950"/>
+<area shape="rect" id="Node000050" href="$rotary__encoder_8c.html#a42f4e5174e5a5fa90269fffd0d620ea5" title=" " alt="" coords="561,1121,671,1147"/>
+<area shape="poly" id="edge59_Node000040_Node000050" title=" " alt="" coords="475,946,501,966,514,985,520,1004,524,1040,528,1074,535,1091,549,1108,552,1112,549,1116,545,1112,531,1094,523,1075,519,1040,515,1005,509,987,497,969,472,950"/>
+<area shape="poly" id="edge60_Node000040_Node000052" title=" " alt="" coords="476,946,501,966,516,992,523,1017,523,1065,522,1088,524,1111,532,1134,549,1158,552,1161,548,1164,545,1161,527,1136,519,1112,517,1088,518,1065,518,1018,511,994,497,969,473,950"/>
+<area shape="poly" id="edge58_Node000049_Node000046" title=" " alt="" coords="673,975,740,964,741,969,673,980"/>
+</map>

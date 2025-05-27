@@ -1,0 +1,10 @@
+<map id="displayLongText" name="displayLongText">
+<area shape="rect" id="Node000001" title="Displays a few lines on the screen based on an index." alt="" coords="5,5,121,31"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#ab3983e0b7ec907367a0ca03b239b96a3" title="Draws text." alt="" coords="169,5,244,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,15,155,15,155,21,121,21"/>
+<area shape="rect" id="Node000003" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="439,5,517,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,15,425,15,425,21,244,21"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#a768a17ccf375e1ca3333f8bce1974217" title=" " alt="" coords="292,31,391,56"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="245,22,279,29,278,34,244,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="391,32,425,25,426,30,392,37"/>
+</map>

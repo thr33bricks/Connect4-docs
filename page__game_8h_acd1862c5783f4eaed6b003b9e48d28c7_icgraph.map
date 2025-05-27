@@ -1,0 +1,12 @@
+<map id="resetcurrPosX" name="resetcurrPosX">
+<area shape="rect" id="Node000001" title="Resets the current x pos selector." alt="" coords="397,31,503,56"/>
+<area shape="rect" id="Node000002" href="$logic__game_8c.html#a486f7b71aa892de0f05c6187647613b9" title="Inits a new game. Resets the selected x pos on the board, resets the rotary encoder state,..." alt="" coords="275,31,349,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,46,350,46,350,41,384,41"/>
+<area shape="rect" id="Node000003" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="104,5,227,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,37,227,31,228,26,261,32"/>
+<area shape="rect" id="Node000005" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="119,55,211,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="261,54,212,62,211,57,260,49"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,31,56,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,35,57,41,56,36,90,30"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="106,59,56,50,57,45,107,54"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="resetRot" name="resetRot">
+<area shape="rect" id="Node000001" title="Resets rotation." alt="" coords="5,55,77,80"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="130,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,52,125,33,127,38,77,57"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="125,55,221,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="78,65,112,65,112,70,78,70"/>
+<area shape="rect" id="Node000005" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="131,104,216,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="77,78,127,96,125,101,75,83"/>
+<area shape="rect" id="Node000003" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="269,55,376,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,28,271,48,270,53,212,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="221,65,255,65,255,70,221,70"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="212,101,270,82,271,87,213,106"/>
+</map>

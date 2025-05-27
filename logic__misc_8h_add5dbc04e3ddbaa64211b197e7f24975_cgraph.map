@@ -1,0 +1,7 @@
+<map id="isGameOver" name="isGameOver">
+<area shape="rect" id="Node000001" title="Checks if there is a winner and who or whether the game is tie." alt="" coords="5,31,100,56"/>
+<area shape="rect" id="Node000002" href="$logic__misc_8c.html#af7dbcfd1c7951c46dd71a52069d40530" title="Checks if the game is tie." alt="" coords="160,5,235,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,32,146,24,147,29,101,38"/>
+<area shape="rect" id="Node000003" href="$logic__misc_8c.html#a11a31d3339830c2f8d2c4365009623f9" title="Checks if the passed colour wins." alt="" coords="148,55,247,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,48,135,54,134,60,100,54"/>
+</map>

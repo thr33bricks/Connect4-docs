@@ -1,0 +1,5 @@
+<map id="isDown" name="isDown">
+<area shape="rect" id="Node000001" title="Checks if button is down." alt="" coords="5,5,72,31"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="120,5,227,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,15,107,15,107,21,72,21"/>
+</map>

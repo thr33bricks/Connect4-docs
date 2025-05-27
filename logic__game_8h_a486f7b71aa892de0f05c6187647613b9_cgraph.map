@@ -1,0 +1,25 @@
+<map id="initGame" name="initGame">
+<area shape="rect" id="Node000001" title="Inits a new game. Resets the selected x pos on the board, resets the rotary encoder state,..." alt="" coords="5,80,80,105"/>
+<area shape="rect" id="Node000002" href="$logic__game_8c.html#acf15165e08940e0b050e6c739de8d349" title="Fills the board with &#39;o&#39; chars which represent empty cells." alt="" coords="149,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,78,127,40,139,34,141,39,129,44,65,82"/>
+<area shape="rect" id="Node000003" href="$page__game_8c.html#acd1862c5783f4eaed6b003b9e48d28c7" title="Resets the current x pos selector." alt="" coords="133,55,239,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,84,119,76,120,82,81,89"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8c.html#a24a3c341e902fa0c6ffe8bf0c679f1d3" title="Resets rotation." alt="" coords="150,104,222,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="81,96,136,106,136,111,80,101"/>
+<area shape="rect" id="Node000009" href="$leds_8c.html#a5de67718afd8ea4063200edb50920d74" title="Turns the 2 RGB leds off." alt="" coords="128,177,244,203"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="64,103,157,167,154,172,61,108"/>
+<area shape="rect" id="Node000005" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="297,29,383,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="216,101,243,89,291,64,300,59,303,64,293,68,245,94,218,106"/>
+<area shape="rect" id="Node000007" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="292,79,388,104"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="222,108,278,99,278,104,222,113"/>
+<area shape="rect" id="Node000008" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="297,128,383,153"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="222,120,284,129,284,135,222,125"/>
+<area shape="rect" id="Node000006" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="436,79,543,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="380,52,438,72,436,77,378,57"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="388,89,422,89,422,94,388,94"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="378,125,436,106,438,111,380,130"/>
+<area shape="rect" id="Node000010" href="$leds_8c.html#ab7da1453702a48e7578958b037830075" title="Sets RGB led 1." alt="" coords="306,177,374,203"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="244,187,292,187,292,193,244,193"/>
+<area shape="rect" id="Node000011" href="$leds_8c.html#a98e0f2238bf8d788f029f32845d7d417" title="Sets RGB led 2." alt="" coords="306,227,374,252"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="227,200,294,222,292,227,225,205"/>
+</map>

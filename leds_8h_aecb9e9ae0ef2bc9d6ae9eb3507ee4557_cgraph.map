@@ -1,0 +1,7 @@
+<map id="setPlayerLed" name="setPlayerLed">
+<area shape="rect" id="Node000001" title="Sets the 2 RGB leds to yellow or red." alt="" coords="5,31,104,56"/>
+<area shape="rect" id="Node000002" href="$leds_8c.html#ab7da1453702a48e7578958b037830075" title="Sets RGB led 1." alt="" coords="152,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,31,138,24,139,30,105,36"/>
+<area shape="rect" id="Node000003" href="$leds_8c.html#a98e0f2238bf8d788f029f32845d7d417" title="Sets RGB led 2." alt="" coords="152,55,220,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,50,139,56,138,61,104,55"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="playScrollSound" name="playScrollSound">
+<area shape="rect" id="Node000001" title="Plays a scroll sound with the piezo buzzer." alt="" coords="5,5,121,31"/>
+<area shape="rect" id="Node000002" href="$speaker_8c.html#ac95c9095e7cdfc9ff8a4f1bdcb6faa14" title="Plays a frequency for a duration." alt="" coords="169,5,244,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,15,155,15,155,21,121,21"/>
+<area shape="rect" id="Node000003" href="$mzapo__parlcd_8c.html#afef12925f598e36664d1d3b6de27c881" title=" " alt="" coords="292,5,387,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,15,278,15,278,21,244,21"/>
+</map>

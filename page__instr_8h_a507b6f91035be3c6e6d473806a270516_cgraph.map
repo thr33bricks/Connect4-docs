@@ -1,0 +1,55 @@
+<map id="displayInstructions" name="displayInstructions">
+<area shape="rect" id="Node000001" title="Displays the instructions page." alt="" coords="5,303,136,328"/>
+<area shape="rect" id="Node000002" href="$page__instr_8c.html#a4742133b6e5966b9220adbcb08e41e78" title="Displays a few lines on the screen based on an index." alt="" coords="189,32,305,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,301,118,222,182,118,223,66,227,69,186,121,122,225,81,304"/>
+<area shape="rect" id="Node000006" href="$page__instr_8c.html#a743debd5de661ce7969856c03124cce6" title="Displays the scroll on the right of the screen." alt="" coords="199,132,295,157"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="83,301,221,165,225,169,87,304"/>
+<area shape="rect" id="Node000010" href="$lcd_8c.html#a56c5cf8a568cff737ff95520cbe6b405" title="Updates the display." alt="" coords="222,253,273,279"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="116,300,208,274,209,279,118,305"/>
+<area shape="rect" id="Node000014" href="$lcd_8c.html#a2f7bb38e6b2e088bfc09141b35f6cd38" title="Draws with a single color over every pixel on the screen." alt="" coords="188,303,307,328"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="136,313,174,313,174,318,136,318"/>
+<area shape="rect" id="Node000015" href="$page__instr_8c.html#aaafb7615e9c7fbc7a9e7b0c96d6628e6" title="Draws the home button." alt="" coords="373,355,483,380"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="127,325,184,337,359,359,358,364,184,342,126,331"/>
+<area shape="rect" id="Node000017" href="$page__instr_8c.html#a018317a4639ec25896b4788f02224295" title="Calculates the index of the first line to display at the top of the screen." alt="" coords="184,404,311,429"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="93,326,185,382,209,395,207,400,183,387,90,330"/>
+<area shape="rect" id="Node000023" href="$lcd_8c.html#a1e5af950e5006c73b7d843966d427815" title="Sets shadow behind text." alt="" coords="204,453,291,479"/>
+<area shape="poly" id="edge30_Node000001_Node000023" title=" " alt="" coords="82,327,123,381,152,412,186,440,193,445,191,449,182,444,149,416,119,384,78,330"/>
+<area shape="rect" id="Node000003" href="$lcd_8c.html#ab3983e0b7ec907367a0ca03b239b96a3" title="Draws text." alt="" coords="391,5,465,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,34,377,23,378,28,306,39"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="709,105,787,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="465,14,550,18,600,26,648,41,691,65,726,93,722,97,688,69,646,46,598,32,550,23,465,19"/>
+<area shape="rect" id="Node000005" href="$lcd_8c.html#a768a17ccf375e1ca3333f8bce1974217" title=" " alt="" coords="547,56,645,81"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="466,27,541,49,540,55,465,32"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="637,79,696,98,694,104,635,84"/>
+<area shape="rect" id="Node000007" href="$lcd_8c.html#a3cd3824fc7c854eb5f287b4852bfff2a" title="Draws a filled rectangle." alt="" coords="549,105,643,131"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="295,131,358,121,451,115,535,114,535,119,451,120,359,126,296,136"/>
+<area shape="rect" id="Node000008" href="$lcd_8c.html#a29bca90827676f7680e4ed254d331e2a" title="Draws a line." alt="" coords="559,156,633,181"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="296,139,389,136,498,142,546,152,545,157,497,147,389,141,296,144"/>
+<area shape="rect" id="Node000009" href="$lcd_8c.html#a4e0a5166dc6e2da64be385fb28047c37" title="Draws a triangle." alt="" coords="380,157,476,183"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="296,149,367,159,366,164,295,154"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="643,115,695,115,695,121,643,121"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="633,154,695,133,697,138,634,159"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="476,167,545,166,545,172,476,172"/>
+<area shape="rect" id="Node000011" href="$mzapo__parlcd_8c.html#ab30b1b616caf5991cd8e1a6a52ba23e7" title=" " alt="" coords="366,207,490,232"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="272,257,364,233,366,238,273,262"/>
+<area shape="rect" id="Node000012" href="$mzapo__parlcd_8c.html#ab9125a7610ba0302c004802fb908590d" title=" " alt="" coords="366,256,490,281"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="273,264,353,265,353,270,273,269"/>
+<area shape="rect" id="Node000013" href="$mzapo__parlcd_8c.html#a688f82186392823303897ee3f270718a" title=" " alt="" coords="359,305,497,331"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="273,270,371,299,369,304,272,276"/>
+<area shape="poly" id="edge21_Node000015_Node000008" title=" " alt="" coords="476,352,496,340,514,317,523,295,530,270,543,241,575,191,579,194,548,243,535,272,528,296,519,320,499,344,479,357"/>
+<area shape="rect" id="Node000016" href="$lcd_8c.html#ae61492e6000c8c07fd98931bfe9a2de0" title="Draws a filled circle." alt="" coords="545,255,647,280"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="468,352,496,340,535,314,569,287,572,291,538,318,499,344,471,357"/>
+<area shape="poly" id="edge20_Node000016_Node000004" title=" " alt="" coords="608,253,722,139,726,142,612,256"/>
+<area shape="rect" id="Node000018" href="$rotary__encoder_8c.html#ae3729780f87f293c333032d5de97ae4d" title="Get the rotary encoder rotation value." alt="" coords="389,404,467,429"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="311,414,375,414,375,419,311,419"/>
+<area shape="rect" id="Node000019" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="553,355,639,380"/>
+<area shape="poly" id="edge24_Node000018_Node000019" title=" " alt="" coords="467,403,538,381,540,386,468,408"/>
+<area shape="rect" id="Node000021" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="548,404,644,429"/>
+<area shape="poly" id="edge26_Node000018_Node000021" title=" " alt="" coords="468,414,534,414,534,419,468,419"/>
+<area shape="rect" id="Node000022" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="553,453,639,479"/>
+<area shape="poly" id="edge28_Node000018_Node000022" title=" " alt="" coords="468,426,540,447,539,452,467,431"/>
+<area shape="rect" id="Node000020" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="695,404,801,429"/>
+<area shape="poly" id="edge25_Node000019_Node000020" title=" " alt="" coords="637,378,696,397,694,402,635,383"/>
+<area shape="poly" id="edge27_Node000021_Node000020" title=" " alt="" coords="644,414,681,414,681,419,644,419"/>
+<area shape="poly" id="edge29_Node000022_Node000020" title=" " alt="" coords="635,451,694,431,696,436,637,456"/>
+</map>

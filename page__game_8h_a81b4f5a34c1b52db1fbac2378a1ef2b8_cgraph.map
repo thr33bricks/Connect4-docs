@@ -1,0 +1,23 @@
+<map id="currentSelection" name="currentSelection">
+<area shape="rect" id="Node000001" title="Updates the current column selection based on the knob position." alt="" coords="5,140,121,165"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#ae3729780f87f293c333032d5de97ae4d" title="Get the rotary encoder rotation value." alt="" coords="191,79,269,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,137,181,106,183,111,100,142"/>
+<area shape="rect" id="Node000007" href="$logic__misc_8c.html#a5290717f2b6602a15c40fedc00bc5d1d" title="Plays a scroll sound with the piezo buzzer." alt="" coords="172,140,288,165"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="122,150,158,150,158,155,122,155"/>
+<area shape="rect" id="Node000010" href="$page__game_8c.html#ad4c56fe243dae26b00e1c0ba1ebf1419" title="Searches for a non&#45;empty column based on the direction of the knob (&#39;r&#39; or &#39;l&#39;)" alt="" coords="169,189,291,215"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="108,163,174,183,172,188,106,168"/>
+<area shape="rect" id="Node000003" href="$rotary__encoder_8c.html#ad0b9c923abb6ff6a891fd40471e575de" title="Get the rotations value of the blue rotary encoder." alt="" coords="343,5,430,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,76,345,34,347,39,259,81"/>
+<area shape="rect" id="Node000005" href="$rotary__encoder_8c.html#ae396cae4297e820ee5afe6856ef10fe4" title="Get the rotations value of the green rotary encoder." alt="" coords="339,55,435,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="269,83,325,74,325,79,270,88"/>
+<area shape="rect" id="Node000006" href="$rotary__encoder_8c.html#a6d5e4ab5faeff63fd5ce0c7454f47c32" title="Get the rotations value of the red rotary encoder." alt="" coords="344,104,429,129"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="270,95,331,105,330,110,269,100"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="483,55,589,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,28,485,48,483,53,425,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="435,65,469,65,469,70,435,70"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="425,101,483,82,485,87,427,106"/>
+<area shape="rect" id="Node000008" href="$speaker_8c.html#ac95c9095e7cdfc9ff8a4f1bdcb6faa14" title="Plays a frequency for a duration." alt="" coords="349,153,424,179"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="288,155,336,159,336,164,288,160"/>
+<area shape="rect" id="Node000009" href="$mzapo__parlcd_8c.html#afef12925f598e36664d1d3b6de27c881" title=" " alt="" coords="489,153,583,179"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="424,163,475,163,475,169,424,169"/>
+</map>

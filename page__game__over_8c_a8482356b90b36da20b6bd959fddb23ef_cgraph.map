@@ -1,0 +1,10 @@
+<map id="drawScore" name="drawScore">
+<area shape="rect" id="Node000001" title="Draws the game score at a specified location." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="Node000002" href="$lcd_8c.html#ab3983e0b7ec907367a0ca03b239b96a3" title="Draws text." alt="" coords="137,5,212,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,15,124,15,124,21,89,21"/>
+<area shape="rect" id="Node000003" href="$lcd_8c.html#a017de462ef51dbe0491d537af44ca2a6" title="Draws a single pixel." alt="" coords="407,5,485,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,15,393,15,393,21,212,21"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#a768a17ccf375e1ca3333f8bce1974217" title=" " alt="" coords="260,31,359,56"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="213,22,247,29,246,34,212,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="359,32,393,25,394,30,360,37"/>
+</map>

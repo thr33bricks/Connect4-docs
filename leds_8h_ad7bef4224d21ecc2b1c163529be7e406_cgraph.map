@@ -1,0 +1,11 @@
+<map id="initLeds" name="initLeds">
+<area shape="rect" id="Node000001" title="Maps memory and turns off RGB leds." alt="" coords="5,31,72,56"/>
+<area shape="rect" id="Node000002" href="$mzapo__phys_8c.html#aac445a68fb584e6a2b0bc038d9eed8f6" title=" " alt="" coords="120,5,255,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,35,106,29,107,34,72,40"/>
+<area shape="rect" id="Node000003" href="$leds_8c.html#a5de67718afd8ea4063200edb50920d74" title="Turns the 2 RGB leds off." alt="" coords="129,55,245,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,46,116,53,116,58,72,51"/>
+<area shape="rect" id="Node000004" href="$leds_8c.html#ab7da1453702a48e7578958b037830075" title="Sets RGB led 1." alt="" coords="303,29,371,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="245,55,289,47,290,53,246,60"/>
+<area shape="rect" id="Node000005" href="$leds_8c.html#a98e0f2238bf8d788f029f32845d7d417" title="Sets RGB led 2." alt="" coords="303,79,371,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="246,74,290,81,289,86,245,79"/>
+</map>

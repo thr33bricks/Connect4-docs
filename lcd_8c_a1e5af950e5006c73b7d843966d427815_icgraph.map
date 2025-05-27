@@ -1,0 +1,27 @@
+<map id="setShadow" name="setShadow">
+<area shape="rect" id="Node000001" title="Sets shadow behind text." alt="" coords="641,107,728,132"/>
+<area shape="rect" id="Node000002" href="$page__game_8c.html#a50cb55b1adb9f425e5c74d1fbaab361b" title="Displays the game page." alt="" coords="475,5,573,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,100,592,52,555,33,557,28,595,48,660,96"/>
+<area shape="rect" id="Node000005" href="$page__game__over_8c.html#ad09b9686ad3a826e01960c792e8e7d40" title="Displays the game over page." alt="" coords="280,104,407,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="633,105,593,97,524,91,455,97,396,107,395,101,454,91,524,86,594,91,634,100"/>
+<area shape="rect" id="Node000007" href="$page__instr_8c.html#a507b6f91035be3c6e6d473806a270516" title="Displays the instructions page." alt="" coords="459,156,589,181"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="630,139,567,158,566,153,629,134"/>
+<area shape="rect" id="Node000009" href="$page__menu_8c.html#a59c2926dd9b0968badf463aaf4f91422" title="Displays the menu page." alt="" coords="477,205,571,231"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="663,143,632,171,595,196,570,208,568,203,592,192,629,166,660,139"/>
+<area shape="rect" id="Node000011" href="$page__game__over_8c.html#a1cf4501f3e69ace6c30598d792446495" title="Draws the title, who wins or tie." alt="" coords="455,107,593,132"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="627,122,593,122,593,117,627,117"/>
+<area shape="rect" id="Node000003" href="$logic__game_8c.html#abe8e116fddcfeaba9c48929631adb3cc" title="Handles the game page." alt="" coords="121,55,215,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,29,216,64,215,58,461,24"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,131,56,156"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,88,105,95,49,133,46,128,103,90,117,83"/>
+<area shape="rect" id="Node000006" href="$logic__game_8c.html#af5745b1d476a1af6205d46745953d106" title="Handles the game over page." alt="" coords="107,105,229,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="266,120,230,120,230,115,266,115"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="94,134,57,141,56,136,93,129"/>
+<area shape="rect" id="Node000008" href="$logic__game_8c.html#acb37ef24c46b6415fa9553e839b2efd5" title="Handles the instructions page." alt="" coords="104,155,232,180"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="445,171,232,170,232,165,445,166"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="90,156,56,150,57,145,91,151"/>
+<area shape="rect" id="Node000010" href="$logic__game_8c.html#ade1fe82ef09739f5691983b6b53e66a4" title="Handles the menu page." alt="" coords="297,205,389,231"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="463,221,390,221,390,215,463,215"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="283,222,197,217,149,209,103,195,71,178,45,158,48,154,73,174,105,190,150,203,197,211,283,217"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="441,121,407,120,407,115,441,115"/>
+</map>

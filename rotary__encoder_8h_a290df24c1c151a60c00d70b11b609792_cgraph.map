@@ -1,0 +1,35 @@
+<map id="wasPressed" name="wasPressed">
+<area shape="rect" id="Node000001" title="Checks if button was pressed." alt="" coords="5,428,100,453"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#a451f6cbb24d2103bae855e1971b88f0b" title="Saves the reading by comparing values taken before and after an interval. After that it compares curr..." alt="" coords="162,279,249,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,426,180,312,183,316,69,430"/>
+<area shape="rect" id="Node000015" href="$rotary__encoder_8c.html#aa60294a1ec58a9bb9fee5b84477f5456" title=" " alt="" coords="321,501,435,527"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="100,440,177,447,263,465,288,475,312,488,328,494,326,499,310,492,286,480,262,470,177,453,100,445"/>
+<area shape="rect" id="Node000016" href="$rotary__encoder_8c.html#a6de4731cef19fec948afeb9f2f8609a6" title=" " alt="" coords="148,479,263,504"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="93,451,154,472,153,477,91,456"/>
+<area shape="rect" id="Node000003" href="$rotary__encoder_8c.html#af7e794eee05d707f536623cbabddda68" title=" " alt="" coords="323,5,433,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,278,214,233,232,170,263,101,284,69,309,40,314,36,317,40,313,44,288,72,267,104,237,172,219,235,211,279"/>
+<area shape="rect" id="Node000004" href="$rotary__encoder_8c.html#a578cf035a648ac322b856a72411de9a0" title=" " alt="" coords="334,55,422,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="207,278,218,241,238,191,268,137,287,112,309,89,320,81,323,86,312,93,291,115,273,140,243,193,223,243,212,279"/>
+<area shape="rect" id="Node000005" href="$rotary__encoder_8c.html#a89b0e2295debe9b95e3870cfd4aa0d8c" title=" " alt="" coords="321,104,435,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="210,277,245,212,274,173,309,139,317,133,320,138,312,143,278,176,250,215,215,280"/>
+<area shape="rect" id="Node000006" href="$rotary__encoder_8c.html#ad12e2c4781863f12d8f893c364dd5163" title=" " alt="" coords="323,153,433,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="215,277,253,234,280,209,309,188,320,182,322,187,312,192,283,213,257,237,219,280"/>
+<area shape="rect" id="Node000007" href="$rotary__encoder_8c.html#a4f31ba8a3b3b7b84eff0091318374b74" title=" " alt="" coords="311,203,445,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="234,276,335,231,337,236,236,281"/>
+<area shape="rect" id="Node000008" href="$rotary__encoder_8c.html#a51ca22f5e92260d1d3f69724a51c551a" title=" " alt="" coords="501,328,553,353"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="249,282,340,276,394,279,446,289,475,301,501,317,498,322,473,306,445,294,393,284,340,281,249,287"/>
+<area shape="rect" id="Node000009" href="$rotary__encoder_8c.html#a1b611a40575b621779001f7bfcc5ecb2" title=" " alt="" coords="323,304,433,329"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="249,295,310,304,309,309,248,300"/>
+<area shape="rect" id="Node000010" href="$rotary__encoder_8c.html#aa06faf58f9149db90cb45bb6f49f7282" title=" " alt="" coords="334,353,422,379"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="233,302,312,338,330,346,328,351,310,343,231,306"/>
+<area shape="rect" id="Node000011" href="$rotary__encoder_8c.html#ad172638967097add32c0c4e699708688" title=" " alt="" coords="321,403,435,428"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="219,303,258,344,284,367,312,388,325,395,323,400,309,392,281,371,254,348,216,306"/>
+<area shape="rect" id="Node000012" href="$rotary__encoder_8c.html#a42f4e5174e5a5fa90269fffd0d620ea5" title=" " alt="" coords="323,452,433,477"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="215,303,250,367,278,404,312,437,322,444,319,448,309,441,274,408,246,370,210,306"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="215,303,258,401,287,454,313,488,318,492,315,496,309,492,282,457,254,403,210,306"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="415,400,444,388,494,359,497,363,447,392,417,405"/>
+<area shape="rect" id="Node000013" href="$rotary__encoder_8c.html#ac795de55df0debe654603373b0c0f2a6" title="Checks if button is down." alt="" coords="493,452,560,477"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="433,462,479,462,479,467,433,467"/>
+<area shape="rect" id="Node000014" href="$rotary__encoder_8c.html#a7d5cba6f7fcd8cbb5627f1f3f7a7d29d" title=" " alt="" coords="608,452,715,477"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="560,462,595,462,595,467,560,467"/>
+</map>

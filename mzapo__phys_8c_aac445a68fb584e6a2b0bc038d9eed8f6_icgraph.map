@@ -1,0 +1,16 @@
+<map id="map_phys_address" name="map_phys_address">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,80,381,105"/>
+<area shape="rect" id="Node000002" href="$rotary__encoder_8c.html#a3314ecf0cc354f3b0bbd836b20cfec29" title="Memory map and setting vars to zero." alt="" coords="104,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,77,179,33,181,28,274,72"/>
+<area shape="rect" id="Node000004" href="$lcd_8c.html#ad6f84952daad8f46512a59ee823ac0a4" title="Maps memory and inits the display." alt="" coords="121,55,181,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,83,181,75,182,69,234,77"/>
+<area shape="rect" id="Node000005" href="$leds_8c.html#ad7bef4224d21ecc2b1c163529be7e406" title="Maps memory and turns off RGB leds." alt="" coords="118,104,185,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="233,107,185,114,184,109,233,102"/>
+<area shape="rect" id="Node000006" href="$speaker_8c.html#aaa107670ac49ba56457433f90652270b" title="Memory map." alt="" coords="108,153,195,179"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="273,114,182,156,180,151,271,109"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,80,56,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,40,105,44,50,82,47,78,103,40,111,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="108,79,57,90,56,85,107,74"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="104,110,56,100,57,95,105,105"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="113,149,103,143,49,108,52,104,105,138,116,144"/>
+</map>
